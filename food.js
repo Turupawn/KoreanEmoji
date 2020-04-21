@@ -50,8 +50,8 @@ var foods = [
   {
     korean:
     {
-      subject: "옥수수의이",
-      object: "옥수수의을"
+      subject: "옥수수가",
+      object: "옥수수를"
     },
     emoji: "corn"
   }
