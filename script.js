@@ -127,4 +127,4 @@ function generatePhrase()
   document.getElementById("result").innerHTML = result
 }
 
-generatePhrase()
+generateFoodPhrase()
